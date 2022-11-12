@@ -1,1 +1,7 @@
-
+{"environment":"Windows_11",
+ "title":"Not_all_homepage_elements_are_translated_into_Japanese",
+ "steps":"1_Click_on_the_language_selection_dropdown_in_the_upper_right_corner
+          2_Switch_language_to_Japanese
+          3_Scroll_the_page_down_to_the_end",
+ "expected_result":"All_elements_of_the_main_page_are_translated_into_Japanese",
+ "actual_result":"Not_all_homepage_elements_are_translated_into_Japanese"}
